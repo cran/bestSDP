@@ -1,0 +1,9 @@
+12fc0daa84de350369de745fa6335282 *DESCRIPTION
+03cd5dcd2ca346a2a6147bf72d0957a8 *NAMESPACE
+ef89147db4b509f63862bb3025767917 *R/runbestsdp.R
+326020459be719e2c8d3ac5d49c0efda *inst/shinyapps/bestsdp/server.R
+fe45d60136adeaa3ca785c5a25ca046e *inst/shinyapps/bestsdp/ui.R
+7b5fc4e767745d9a6580557049436018 *inst/shinyapps/bestsdp/www/Usher_Org.png
+404550b9641b096eaecc090317b43813 *inst/shinyapps/bestsdp/www/WHO.pdf
+ecd37854bbf11df0cd057f55bab53346 *inst/shinyapps/bestsdp/www/WHO.png
+7a313efa5cfdf37b9886100d0787eeea *man/runbestsdp.Rd
